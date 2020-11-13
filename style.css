@@ -1,0 +1,28 @@
+.gallery img{
+    width: 20%;
+}
+.h1 {
+    font-family: sans-serif;
+}
+
+#menu {
+    width: 100%;
+    height: 40px;
+    background-color: cadetblue;
+    padding-top: 12px;
+}
+
+#menu a{
+    color:azure;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color:aquamarine;
+}
